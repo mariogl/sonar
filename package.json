@@ -1,0 +1,23 @@
+{
+  "name": "sonar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "sass styles/scss/styles.scss styles/css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariogl/sonar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariogl/sonar/issues"
+  },
+  "homepage": "https://github.com/mariogl/sonar#readme",
+  "devDependencies": {
+    "sass": "^1.50.0"
+  }
+}
