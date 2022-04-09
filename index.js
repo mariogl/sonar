@@ -1,8 +1,15 @@
 var a = 3;
 
 const sumar = (x, y) => {
-  return x + y;
+  const a = x;
+  const b = y;
+  console.log(a + b);
+  return a + b;
 };
+
 const add = (x, y) => {
-  return x + y;
+  const a = x;
+  const b = y;
+  console.log(a + b);
+  return a + b;
 };
